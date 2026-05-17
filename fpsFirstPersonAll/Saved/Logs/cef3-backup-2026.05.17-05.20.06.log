@@ -1,0 +1,17 @@
+[12416:13404:0517/000139.448:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12416:13404:0517/000139.494:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27780:19264:0517/000142.030:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9F331E0E8F02185E2D39C6557E0D2348 will be ignored
+[12416:7768:0517/000142.403:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[12416:13404:0517/000142.547:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12416:13404:0517/000142.547:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12416:13404:0517/000142.547:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12416:13404:0517/000142.547:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12416:7768:0517/000142.551:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[3156:5592:0517/000143.747:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3156:5592:0517/000144.409:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3156:28912:0517/000144.432:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3156:28912:0517/000144.432:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3156:28912:0517/000144.433:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31060:25192:0517/000349.844:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[12416:13404:0517/001352.943:ERROR:device_event_log_impl.cc(196)] [00:13:52.934] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[12416:13404:0517/002006.045:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
