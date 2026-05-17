@@ -54,8 +54,7 @@ Plugins/**/Binaries/*
 Build/*
 
 # Log files
-/Saved/webcache_6613/
-/Saved/Logs/
+/Saved/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
